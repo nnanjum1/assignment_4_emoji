@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Emoji</string>
+    <string name="faces_amp_expressions"><![CDATA[Faces & Expressions]]></string>
+    <string name="emoji">Emoji</string>
+    <string name="hand_gestures">Hand Gestures</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+</resources>
